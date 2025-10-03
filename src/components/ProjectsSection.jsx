@@ -24,7 +24,7 @@ const projects = [
     id: 3,
     title: "Portfolio",
     description: "UI/UX design of a landing page for a restaurant,The dark color palette creates a sophisticated and inviting atmosphere, while vibrant orange accents add a touch of energy.",
-    image: "/projects/Project28.png",
+    image: "/projects/Project8.png",
     tags: ["React.js", "MongoDB", "Express.js", "tailwind CSS"],
     demoUrl: "https://mehransangi.vercel.app/",
     githubUrl: "https://github.com/Mehransangi/Portfolio"
