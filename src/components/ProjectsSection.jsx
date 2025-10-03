@@ -4,12 +4,12 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react"
 const projects = [
   {
     id: 1,
-    title: "SOHUM - WEAR COMFORT ITSELF",
-    description: "UI/UX design for a clothing store,The clean and minimalist layout creates a luxurious shopping experience.",
-    image: "/projects/project1.webp",
-    tags: ["Figma"],
-    demoUrl: "https://dribbble.com/shots/24604491-SOHUM-WEAR-COMFORT-ITSELF",
-    githubUrl: ""
+    title: "Slack Clone",
+    description: "Slack-Clone is a full-stack, real-time chat application inspired by Slack, built to demonstrate modern web development skills in messaging, channel management, and real-time collaboration. It supports features such as workspace creation, multi-channel messaging, direct messages, and real-time updates.",
+    image: "/projects/project7.png",
+    tags: ["MERN", "Tailwind CSS", "STREAM", "SENTRY", "INNGEST", "CLERK"],
+    demoUrl: "https://slack-clone-frontend-ochre.vercel.app/",
+    githubUrl: "https://github.com/Mehransangi/Slack-Clone"
   },
   {
     id: 2,
@@ -22,12 +22,12 @@ const projects = [
   },
   {
     id: 3,
-    title: "BITE - EAT & ENJOY YOUR DELICIOUS BITE.",
+    title: "Portfolio",
     description: "UI/UX design of a landing page for a restaurant,The dark color palette creates a sophisticated and inviting atmosphere, while vibrant orange accents add a touch of energy.",
-    image: "/projects/Project2.webp",
-    tags: ["Figma"],
-    demoUrl: "https://dribbble.com/shots/24604421-BITE-EAT-ENJOY-YOUR-DELICIOUS-BITE",
-    githubUrl: ""
+    image: "/projects/Project28.png",
+    tags: ["React.js", "MongoDB", "Express.js", "tailwind CSS"],
+    demoUrl: "https://mehransangi.vercel.app/",
+    githubUrl: "https://github.com/Mehransangi/Portfolio"
   },
   {
     id: 4,

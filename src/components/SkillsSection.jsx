@@ -13,7 +13,9 @@ const skills = [
 
     {name:'Git/GitHub', level: 75, category: "tools" },
     {name:'Figma', level: 95, category: "tools" },
-    {name:'VS Code', level: 85, category: "tools" },
+    {name:'SENTRY', level: 45, category: "tools" },
+    {name:'CLERK', level: 35, category: "tools" },
+    {name:'INNGEST', level: 30, category: "tools" },
 ]
 
 const categories = ['All', 'frontend', 'Backend', 'tools']
