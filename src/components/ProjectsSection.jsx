@@ -15,7 +15,7 @@ const projects = [
     id: 2,
     title: "Local Scholarship Portal - LSP",
     description: "To solve the problem of students of Pakistan who are looking for Local scholarship but are overwhelmed with many international level protal with a local scholarship FILTER in them, We have build LSP.",
-    image: "/projects/project3.png",
+    image: "/projects/homepage.png",
     tags: ["React", "Express", "MongoDB", "Node.js", "TailwindCSS"],
     demoUrl: "http://lsp-frontend-sok5.vercel.app/",
     githubUrl: "https://github.com/Mehransangi/LSP"
